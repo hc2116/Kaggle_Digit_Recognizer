@@ -1,5 +1,5 @@
 # Kaggle_Digit_Recognizer
-ConvNet and PCA/SVM approaches to the kaggle digit recognizer challenge
+ConvNet and PCA/SVM approaches to the kaggle digit recognizer challenge https://www.kaggle.com/c/digit-recognizer/data.
 
 First approach uses a nonlinear SVM (ovo-shape) on the first 100 PCA components, done in Python with SciKitLearn (91% accuracy)
 
